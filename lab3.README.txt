@@ -1,1 +1,7 @@
-name, date, description
+John Whiddon
+0284759
+3/9/15
+
+Very late on submitting this. Fell behind and became sick but figured I should finish it anyways. Uses a sphere coordinate triangle array 
+with a changing r value to create amn intriguing outer layer. Inner sphere is a different color although I could not figure out 
+the depth problems. 
